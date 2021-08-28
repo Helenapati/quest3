@@ -1,0 +1,1 @@
+//A parte errada é na distancia onde tem o "1/2"
